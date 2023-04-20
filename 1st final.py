@@ -1,4 +1,4 @@
-
+#myPfunProject#
 
 from tkinter import *
 import random
@@ -160,4 +160,6 @@ label.pack()
 calculator_button.place(x=40,y=150)
 dice_button.place(x=355,y=150)
 window.mainloop()
+
+
     
